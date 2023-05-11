@@ -1,0 +1,19 @@
+.colorclass{
+    background: bisque;
+    /* color: bisque; */
+}
+.headingformat1{
+    padding-top: auto;
+    font-size: 230%;
+    font-family: monospace;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%; 
+    color: #959595;
+}
+.headingformat2{
+  font-size: 169%;
+  font-family: monospace;
+  color: #A9A9A9;
+  
+}
